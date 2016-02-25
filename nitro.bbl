@@ -1,0 +1,79 @@
+\begin{thebibliography}{10}
+
+\bibitem{aba}
+{ABA problem}.
+\newblock {\em https://en.wikipedia.org/wiki/ABA\_problem}.
+
+\bibitem{couchdb}
+{Apache CouchDB}.
+\newblock {\em http://couchdb.apache.org/}.
+
+\bibitem{dcp}
+{Couchbase documentation: Database Change Protocol}.
+\newblock {\em http://guide.couchdb.org/draft/btree.html}.
+
+\bibitem{mds}
+{Couchbase documentation: Multidimensional scaling}.
+\newblock {\em
+  http://developer.couchbase.com/documentation/server/4.1/concepts/multidimensional-scaling.html}.
+
+\bibitem{couchbase}
+{Couchbase NoSQL Database}.
+\newblock {\em http://www.couchbase.com/}.
+
+\bibitem{memsql}
+Memsql distributed database.
+\newblock {\em http://www.memsql.com/}.
+
+\bibitem{couchbtree}
+{The Power of B-trees}.
+\newblock {\em http://docs.couchbase.com/admin/admin/Concepts/dcp.html}.
+
+\bibitem{voltdb}
+Voltdb in-memory database.
+\newblock {\em https://voltdb.com/}.
+
+\bibitem{ebr}
+K.~Fraser.
+\newblock {Practical lock-freedom}.
+\newblock {\em PhD thesis, University of Cambridge}, 2004.
+
+\bibitem{maurice:art-of-multproc}
+M.~Herlihy and N.~Shavit.
+\newblock {\em The Art of Multiprocessor Programming”}.
+\newblock Morgan Kaufmann;, 2012.
+
+\bibitem{hp}
+M.~M. Michael.
+\newblock {Hazard Pointers: Safe Memory Reclamation for Lock-Free Objects}.
+\newblock {\em IEEE Transactions on Parallel and Distributed Systems},
+  15(6):491--504, 2004.
+
+\bibitem{btrfs}
+C.~M. Ohad~Rodeh, Josef~Bacik.
+\newblock {BTRFS: The Linux B-Tree Filesystem}.
+\newblock {\em ACM Transactions on Storage}, 9(3), August 2013.
+
+\bibitem{pugh:skiplist}
+W.~Pugh.
+\newblock Skip lists: a probabilistic alternative to balanced trees.
+\newblock {\em Communications of the ACM}, 33(6):668--676, June 1990.
+
+\bibitem{btree}
+S.~M. Stavros~Harizopoulos, Daniel J.~Abadi and M.~Stonebraker.
+\newblock {Ubiquitous B-Tree}.
+\newblock {\em ACM Computing Surveys}, 11(2):121--137, 1979.
+
+\bibitem{stavris:oltp-glass}
+S.~M. Stavros~Harizopoulos, Daniel J.~Abadi and M.~Stonebraker.
+\newblock {OLTP} through the looking glass, and what we found there.
+\newblock {\em Proceedings of the 2008 ACM SIGMOD international conference on
+  Management of data}, pages 981--992, 2008.
+
+\bibitem{valois:lockfree-list}
+J.~D. Valois.
+\newblock Lock-free linked lists using compare-and-swap.
+\newblock {\em Proceedings of the fourteenth annual ACM symposium on Principles
+  of distributed computing}, pages 214--222, 1995.
+
+\end{thebibliography}
